@@ -6,6 +6,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Codex Pocket Companion</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Mon, 03 Aug 2026 14:22:56 +0200</pubDate>
+            <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Codex Pocket Companion 0.3.2
+
+- correction de l’ouverture du serveur distant sur l’adresse privée Tailscale ;
+- suppression de l’erreur réseau 22 lors de l’activation de l’accès sécurisé ;
+- conservation des mises à jour signées et du retour arrière automatique.
+]]></description>
+            <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex-Pocket-Companion-0.3.2-8.zip" length="1930499" type="application/octet-stream" sparkle:edSignature="3GLDzYx1fsEvbMglxh7cTl086OZbfY40F0PvQ/2S6G3camenUZbp2agy+l833r5ZWl4JYemr07bfOa4XcOlFBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion8-7.delta" sparkle:deltaFrom="7" length="51226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="azPtSNu9SEorVSIyyOi2FPkwixTpeVKbRFa+jKS4uxCFzJLuz0ygS85nt8zyFUoHoyTpz8E9JXyj8tiTpZT2Bw=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion8-6.delta" sparkle:deltaFrom="6" length="54322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lCYX0pUVsA1DE2uqFjbXeStGcehtLQAmYHocuZ1IYGP51F9z0qyVPhWX39zRmnlBVKH+PjATXydkAENRI0THDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Mon, 03 Aug 2026 12:02:45 +0200</pubDate>
             <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
@@ -45,6 +64,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: RIkHUnJc8me+KWWsQg2LPg8uq/fuGJpI4ET5FRYTKLzZSTie9fTBmlBG7MbM8RGLXXsi0Jy9vYhImeAjEY71CA==
-length: 3506
+edSignature: M859UvT8uWHlfMvySANiKciNQpZgQAyRZZ0lp14rDf0I+ukgqcQWO6WbwJ27yqqR7GcoxFqJf3yrFdpZAYpBCA==
+length: 5463
 -->
