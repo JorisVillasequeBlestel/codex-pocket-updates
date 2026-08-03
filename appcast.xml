@@ -6,6 +6,33 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Codex Pocket Companion</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Tue, 04 Aug 2026 00:57:59 +0200</pubDate>
+            <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Codex Pocket Companion 0.4.2
+
+- les conversations créées depuis l’iPhone apparaissent désormais immédiatement dans Codex Desktop ;
+- réparation automatique et sauvegardée des conversations mobiles déjà masquées par l’ancienne classification technique ;
+- envoi fiable avec accusé de réception : le prompt n’est plus considéré comme envoyé avant l’acceptation de Codex ;
+- ajout à l’agent actif avec `turn/steer`, sans échec lorsqu’une tâche est déjà en cours ;
+- exposition dynamique des modèles, niveaux de raisonnement, compétences et apps disponibles sur le Mac ;
+- prise en charge complète des questions et demandes de validation envoyées par Codex ;
+- maintien du service 24/7, de la reconnexion automatique et de l’auto-réparation après une coupure ;
+- conservation de l’authentification Bearer, des racines de travail autorisées et de la restriction au réseau Tailscale privé.
+]]></description>
+            <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex-Pocket-Companion-0.4.2-22.zip" length="2017673" type="application/octet-stream" sparkle:edSignature="a2RDCTreu3Ks+l3qiBGxrV9FDDIkRhdljWdyGIyRFy73VKpV+7LvSVpHB/Ke3mjttFUrlyaHkivDUVAgTVUtBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion22-21.delta" sparkle:deltaFrom="21" length="7890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vkn+EKIEVeEYdT9VcHp7n2T8dVl1nh+22FzsenxTdZqlqcz1tJjz7fwUXVhmgfTaR7h1Q+HRiX91yGWXQJwVCQ=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion22-13.delta" sparkle:deltaFrom="13" length="11650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ezs+vtFd/s37An7BYSNUivDNpHBrI2R4GknJ8TEBi3pmEyn3/NX5wx+26kZ55WvRDRBF4ppYKNBL0+Aazs7kAA=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion22-12.delta" sparkle:deltaFrom="12" length="203878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fjgYIzT/TjfNSXUNYmQmpn80j4dVl7U1QRyqg8WqiCEHkvJB2qBBuw0iWTR/iTQZzSUgjMICpugpSTHAN4V3Bw=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion22-11.delta" sparkle:deltaFrom="11" length="260214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ux97nfXERAekKn/GVQimihcQptv0F8pUHkPGLOXgrWSM65J2ppvVN45BJkBdrhfqeAkWR1R1Y5D6Bw01NRFMAg=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion22-10.delta" sparkle:deltaFrom="10" length="265230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SfsqTFf1jnn0Duyu0Z5oNPmLhx/kOI4Cb5J+LE+NhYzO5/863hiBY9o8cRVBcL2/HaeeeQtCPGYJ///EROvICw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Tue, 04 Aug 2026 00:42:27 +0200</pubDate>
             <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
@@ -55,34 +82,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
                 <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion13-8.delta" sparkle:deltaFrom="8" length="275118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HrR9CKw/M5HXQrz9yBFKt3s+U764CMF4cC8oiSEnIhwb8tZYn9qt1X98n6ogktZ82x4V869LoOd357w9ePNCBQ=="/>
             </sparkle:deltas>
         </item>
-        <item>
-            <title>0.3.6</title>
-            <pubDate>Mon, 03 Aug 2026 16:02:04 +0200</pubDate>
-            <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Codex Pocket Companion 0.3.6
-
-- vrai mode plein écran immersif, sans barre latérale ni barre de contrôle ;
-- déplacement de la souris aligné sur le rectangle vidéo et le ratio réel du Mac distant ;
-- curseur local masqué au niveau système au-dessus de l’écran distant pour supprimer le double curseur ;
-- mode Très fluide à 60 images par seconde activé par défaut ;
-- dictée vocale depuis le micro du Mac contrôleur vers le champ sélectionné sur le Mac distant ;
-- sortie immédiate du mode immersif avec la touche Échap.
-]]></description>
-            <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex-Pocket-Companion-0.3.6-12.zip" length="1980646" type="application/octet-stream" sparkle:edSignature="us65ZqWfxKKQcRlyCpqAllprWwLt+/NhbcNxTJ91fM7i9HXZvZUU7wcF5SCYMgSIxQUaRiQLVPqCt0fUNI86DQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion12-11.delta" sparkle:deltaFrom="11" length="167470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TniwPgK+pQNMbIfLxD1fGm8bnJ5tf3bCs31Bno8DnX+3spJCb+QsFl7JQLdIBOH5zS9C2l2IECHF9RpjTAk7CQ=="/>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion12-10.delta" sparkle:deltaFrom="10" length="177006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mylfw3ytwQpg/mq14mARgV4pL/LRl2nWYzaEAJCSRAb53RLbM8DLX9UQRL6HH2Usx1MuVO4ljW09mlSZ4UKTAg=="/>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion12-9.delta" sparkle:deltaFrom="9" length="189342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J7lXQ6yNQVuP19dW+IUEIZrqcrcRlSt6MBjoElFuXr+cjEj87SgvuIE85J2723WEsluveopZ3NVcNjS5BcjQBQ=="/>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion12-8.delta" sparkle:deltaFrom="8" length="206658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P/U5cX/0NwVOyurNhEiUG1XhfuIQ0F0yC6YuPkaMG21Wboq3X26PzuFkjDltsWB4yjB9Cs6M1bWM7cyEyW0vAQ=="/>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion12-7.delta" sparkle:deltaFrom="7" length="207706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="agkyzaCcHueEM/VgvyQW+220A2KEGA4aOKdNId/QQrUPM7fxZo5UX3mNUqRs1/3AdSjMqr+LJnyZxmwypUUHDA=="/>
-            </sparkle:deltas>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: j19Spt148YeqWW+PCOWuJB6H4rzsB+5vQ+Z9iXmT99pW3ztpyvqXbed89IcPFbxStbc19PDrjkh7VQ5hmSrTBA==
-length: 11130
+edSignature: TbeDjpY5UlArVbpq7eotMdLm2Jo4EGw/XAf+4sjb+ikhcJ0QaFnA1IvL0V4gb6G/4MuTeBedDUjxGpjBpHTcBQ==
+length: 11518
 -->
