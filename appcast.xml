@@ -6,6 +6,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Codex Pocket Companion</title>
         <item>
+            <title>0.3.3</title>
+            <pubDate>Mon, 03 Aug 2026 15:44:45 +0200</pubDate>
+            <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Codex Pocket Companion 0.3.3
+
+- vrai mode plein écran immersif, sans barre latérale ni barre de contrôle ;
+- déplacement de la souris aligné sur le rectangle vidéo et le ratio réel du Mac distant ;
+- curseur local masqué au-dessus de l’écran distant pour supprimer le double curseur ;
+- sortie immédiate du mode immersif avec la touche Échap.
+]]></description>
+            <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex-Pocket-Companion-0.3.3-9.zip" length="1942842" type="application/octet-stream" sparkle:edSignature="sSi20zxbFDeac8EqoMCVQ6rZN3utJLpkyCA4X4oZjovmLEI7uJBp1K2czexCb/1WybK9uV/XKj99pdJxdRpqCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion9-8.delta" sparkle:deltaFrom="8" length="135730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2PU4UR1rUJbxftqEQ+LrWgmkBzX0TvdX2viLA6eDOvGNuxo2F5OXbejnmixM0rQjezBG4UKvTMGvN0Ir12YUBA=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion9-7.delta" sparkle:deltaFrom="7" length="137826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XtqFout0auLrBtCLGDGPqYC3buXujvvVs5r/pzZzevy1e1HtiV++Yuz3N8er8BZ+1CbUUYmAgbnby3PfpxrJCA=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion9-6.delta" sparkle:deltaFrom="6" length="138030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="61GzZs3JC8LsRKK8rH/KGziXsiIZqy28sWd59O46fQW+00JGC9Zv215t9vBTfmW53OFqpYSxDSrPbXURViE2Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.2</title>
             <pubDate>Mon, 03 Aug 2026 14:22:56 +0200</pubDate>
             <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
@@ -44,26 +65,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
                 <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion7-6.delta" sparkle:deltaFrom="6" length="5086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EbvOq4cW+dJL8hUdToXnWw5cuCPbkJSC76lxjFyPOsvpixffIY4Kpvuy/d4QbsvZPLtY8XDkmu4TxqopK3VtDQ=="/>
             </sparkle:deltas>
         </item>
-        <item>
-            <title>0.3.0</title>
-            <pubDate>Mon, 03 Aug 2026 11:55:14 +0200</pubDate>
-            <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Codex Pocket Companion 0.3.0
-
-- ajout des mises à jour automatiques signées dans l’application ;
-- vérification silencieuse toutes les six heures et recherche manuelle disponible dans le menu ;
-- sauvegarde locale de la dernière version saine sur les Macs configurés en disponibilité 24/7 ;
-- retour automatique à cette sauvegarde après trois échecs de lancement ou un démarrage non confirmé ;
-- conservation de l’appairage, des autorisations et de la configuration pendant les mises à jour.
-]]></description>
-            <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex-Pocket-Companion-0.3.0-6.zip" length="1930525" type="application/octet-stream" sparkle:edSignature="dre0GvNhzFgExaKLKmlgQTeAeEsv+A5MzCWOXiLzCclImUZrKNsH1fBlrF5EjwgKvIaJXAxYqW1UddLZXTRzCA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: M859UvT8uWHlfMvySANiKciNQpZgQAyRZZ0lp14rDf0I+ukgqcQWO6WbwJ27yqqR7GcoxFqJf3yrFdpZAYpBCA==
-length: 5463
+edSignature: RzvgdVdpBpv+rJLJp3P0DoF8AWvtypfwRPqjQHmohkX2yqPOT/5UhY37CCvDvvNRDkWwT7ussQL3AULWbDcwCg==
+length: 6621
 -->
