@@ -6,6 +6,40 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Codex Pocket Companion</title>
         <item>
+            <title>0.4.6</title>
+            <pubDate>Tue, 04 Aug 2026 02:02:47 +0200</pubDate>
+            <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Codex Pocket Companion 0.4.6
+
+- Décode correctement l’accusé de réception réel de Codex Desktop afin que l’iPhone confirme l’envoi sans faux échec ni nouvelle tentative en double.
+- Envoie désormais le prompt de l’iPhone au propriétaire de la conversation déjà ouverte dans Codex Desktop : le message et la réponse apparaissent en direct sans fermer ni relancer Codex.
+- Évite le double moteur Codex lorsque la conversation est visible et conserve un repli autonome lorsque Codex Desktop est fermé.
+- Suit la fin des réponses lancées par la fenêtre Codex afin d’actualiser également l’iPhone.
+- Conserve le canal de synchronisation strictement local et protégé par les permissions de l’utilisateur macOS.
+
+- les conversations archivées sont maintenant exclues des listes et compteurs de projets sur iPhone ;
+- les conversations créées depuis l’iPhone apparaissent désormais immédiatement dans Codex Desktop ;
+- réparation automatique et sauvegardée des conversations mobiles déjà masquées par l’ancienne classification technique ;
+- envoi fiable avec accusé de réception : le prompt n’est plus considéré comme envoyé avant l’acceptation de Codex ;
+- ajout à l’agent actif avec `turn/steer`, sans échec lorsqu’une tâche est déjà en cours ;
+- exposition dynamique des modèles, niveaux de raisonnement, compétences et apps disponibles sur le Mac ;
+- prise en charge complète des questions et demandes de validation envoyées par Codex ;
+- maintien du service 24/7, de la reconnexion automatique et de l’auto-réparation après une coupure ;
+- conservation de l’authentification Bearer, des racines de travail autorisées et de la restriction au réseau Tailscale privé.
+]]></description>
+            <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex-Pocket-Companion-0.4.6-26.zip" length="2020363" type="application/octet-stream" sparkle:edSignature="FMN++vD7p1PmGym175HL6RBaCg3oPWfZC49CCGYot3LVpLd2mq5pY0/sG14+KXG6zJB1ikXor81ziP5YOzjzAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion26-25.delta" sparkle:deltaFrom="25" length="5654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VRFcYdI7m8pIOKDZnOSLxvN7UMb+NZQvrO/uFkMLU1IwCPTu9mQ3fiQ6eggbUuENdxILu518DWGE8CQPRGGBDg=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion26-24.delta" sparkle:deltaFrom="24" length="7866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AOM2xv4cfS59ZC6PAj6gw/wV5iFW51uFqgv8fOCo3dWpWYM8qhn7CPJllvKFM0tXp71rYswA5JTZLjSASJFNCw=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion26-23.delta" sparkle:deltaFrom="23" length="42458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kH7cI/MNUt+S7FHj1B7yEHCLYB3nJgfPmOlhZhEa5cyglHjZKFgxVumrbO04JjFjBa+wZXGkiXc7MJ6Uo49qDg=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion26-22.delta" sparkle:deltaFrom="22" length="39190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xNaIHOn+22qr5+8sRDNR0UPPL4uA86/W+d5nx47uKt80vUUqr2sMlpgzTq0a9QJIAd9aQdyHvAyhU93s2ULnDA=="/>
+                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion26-21.delta" sparkle:deltaFrom="21" length="41226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7dBs/t9Yi6oxjLYZIOdQC5Nrr1MP2UsUVat4h3NGXegbfpCNVrGCXKxw+COPzYlJTJMdurg2PWWUKtES0S8MDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.5</title>
             <pubDate>Tue, 04 Aug 2026 01:45:12 +0200</pubDate>
             <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
@@ -70,37 +104,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
                 <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion24-12.delta" sparkle:deltaFrom="12" length="207210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RUK756+kAt/ZvrSOzBmaKtU3nEybsU3qpjShKIoGmXTGmGgP/8dN9jZ6L36+Smrry4pGhaWW5ks8DQODkbNOAw=="/>
             </sparkle:deltas>
         </item>
-        <item>
-            <title>0.4.3</title>
-            <pubDate>Tue, 04 Aug 2026 01:07:34 +0200</pubDate>
-            <link>https://jorisvillasequeblestel.github.io/codex-pocket-updates/</link>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Codex Pocket Companion 0.4.3
-
-- les conversations archivées sont maintenant exclues des listes et compteurs de projets sur iPhone ;
-- les conversations créées depuis l’iPhone apparaissent désormais immédiatement dans Codex Desktop ;
-- réparation automatique et sauvegardée des conversations mobiles déjà masquées par l’ancienne classification technique ;
-- envoi fiable avec accusé de réception : le prompt n’est plus considéré comme envoyé avant l’acceptation de Codex ;
-- ajout à l’agent actif avec `turn/steer`, sans échec lorsqu’une tâche est déjà en cours ;
-- exposition dynamique des modèles, niveaux de raisonnement, compétences et apps disponibles sur le Mac ;
-- prise en charge complète des questions et demandes de validation envoyées par Codex ;
-- maintien du service 24/7, de la reconnexion automatique et de l’auto-réparation après une coupure ;
-- conservation de l’authentification Bearer, des racines de travail autorisées et de la restriction au réseau Tailscale privé.
-]]></description>
-            <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex-Pocket-Companion-0.4.3-23.zip" length="2017788" type="application/octet-stream" sparkle:edSignature="Snl8YQafsuSRhsc5QK7gsAqi7SKg1TkTaUjcVMZXniy3KRZkg/fyl4bcZyP/QhYuEp2UJHKrsbpTA9L8BfWiCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion23-22.delta" sparkle:deltaFrom="22" length="6434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IWKnVlWsCgC5hp4rCYmzpL8W8wAZ8Xx1C56g9dxE7OYNik0XO2OVLt1Rrog82524f6WdnKMoKggyX7PVpxLTAQ=="/>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion23-21.delta" sparkle:deltaFrom="21" length="8170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="evVBzajkq1E1jtb/yoBEPV6aZCHRRL1gslUbP2DVrhIPBz7Am2D/LYGwHjvmvZ20kazamYivkgh4zjy6tdRNCQ=="/>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion23-13.delta" sparkle:deltaFrom="13" length="11746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QkIoDwxKWwxyQpLldHpco8g9ptiJDy8fUa7P3CA5TA3UhCrjp2gq5OXf+kv0hY2NSQ+WVXyiT2vaenmRBdryBw=="/>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion23-12.delta" sparkle:deltaFrom="12" length="204034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Lf1ImKyhJ5iwC/Y4zPgJZn1ZAc6zZHEHDU4zw129/FkOwwxmn5eARXVOiG70qNOVAiuFJsFxOVTZyECTQRVvDQ=="/>
-                <enclosure url="https://jorisvillasequeblestel.github.io/codex-pocket-updates/Codex%20Pocket%20Companion23-11.delta" sparkle:deltaFrom="11" length="259874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s8bcpcK1Yb1c61ryrVO/TRyAfPSZUbWg8LNcjugsJzVBFRqZjilGuzUAETpO95vkwWLzb4IXnZ/wcvw7H/BrCg=="/>
-            </sparkle:deltas>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: O0RBCFe7c7UL4bZUG/D66/5ZSZJ1XtDt4wkVVDJU3Er9NFpzJNZGktRFkrM1tLUMOUYe1RkrlOxi2LQrmHqtCw==
-length: 13258
+edSignature: z9iF42mim/B4loVzN6kFdxj9Kf5Yx3aK7Vz/zFtr3AqvSwE/tIl48s7EbNZa1Era9TLBFl6x+5aGDhGoPnLbAQ==
+length: 13964
 -->
